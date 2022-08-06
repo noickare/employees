@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form_input {
+    width: 100%;
+}
